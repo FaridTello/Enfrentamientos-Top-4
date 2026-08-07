@@ -59,7 +59,7 @@ El proyecto utiliza **Programación Orientada a Objetos (POO)** para modelar las
 
 ## Documentación
 
-El informe completo del proyecto se encuentra disponible en el repositorio: [`Informe del proyecto`](./RUTA_A_COMPLETAR)
+El informe completo del proyecto se encuentra disponible en el repositorio: [`Informe del proyecto`](./Informe.pdf)
 
 ## Equipo
 
@@ -117,20 +117,20 @@ The project uses **Object-Oriented Programming (OOP)** to model the main entitie
 ## 🖥️ Project views
 
 ### Project development start
-![Project Development Start](Inicio%20del%20desarrollo.jpg)
+![Project Development Start](Inicio%20del%20desarrollo.png)
 
 ### Club list
-![Club List](ListadoClubes.jpg)
+![Club List](ListadoClubes.png)
 
 ### Player list
-![Player List](ListadoJugadores.jpg)
+![Player List](ListadoJugadores.png)
 
 ### Match list
-![Match List](ListadoPartidos.jpg)
+![Match List](ListadoPartidos.png)
 
 ## Documentation
 
-The full project report is available in the repository: [`Project Report`](./RUTA_A_COMPLETAR)
+The full project report is available in the repository: [`Project Report`](./Informe.pdf)
 
 ## Team
 
