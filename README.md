@@ -3,4 +3,4 @@
 El proyecto utiliza Programación Orientada a Objetos (POO) para modelar
 las principales entidades y relaciones del sistema.
 
-![Diagrama de clases](docs/diagrama-clases.jpg)
+![Diagrama de clases](docs/Diagrama-de-clases.jpg)
