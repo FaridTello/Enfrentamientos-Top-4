@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1761161972 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivoclubes.cpp
+	<iostream>
+	"claseArchivoClub.h"
+	"cargarCadena.h"
+
+1760575748 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivoclub.h
+	"claseClub.h"
+
+1761161337 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\claseclub.h
+	"claseFecha.h"
+
+1760575585 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasefecha.h
+
+1760575320 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\cargarcadena.h
+
+1760575320 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\cargarcadena.cpp
+	<iostream>
+
+1760575585 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivoclub.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoClub.h"
+
+1761161650 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\claseclub.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseClub.h"
+	"claseFecha.h"
+
+1760575585 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasefecha.cpp
+	<iostream>
+	"claseFecha.h"
+
+1760920650 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\main.cpp
+	<iostream>
+	"funciones.h"
+
+1760732493 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\funciones.h
+
+1760733027 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"archivoClubes.h"
+	"archivoJugadores.h"
+	"archivoPartidos.h"
+
+1760625260 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivoclubes.h
+
+1760815706 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasejugador.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseJugador.h"
+	"claseFecha.h"
+	"claseArchivoClub.h"
+
+1760617109 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasejugador.h
+	"claseFecha.h"
+
+1760577196 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivojugador.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoJugador.h"
+
+1760615819 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivojugador.h
+	"claseJugador.h"
+
+1760918895 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivojugadores.cpp
+	<iostream>
+	"claseArchivoJugador.h"
+	"cargarCadena.h"
+
+1760625677 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivojugadores.h
+
+1760814848 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasepartido.cpp
+	<iostream>
+	<cstring>
+	"clasePartido.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseArchivoClub.h"
+
+1761159505 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivopartido.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoPartido.h"
+
+1760623899 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasepartido.h
+	"claseFecha.h"
+
+1760623094 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\clasearchivopartido.h
+	"clasePartido.h"
+
+1760814605 source:c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivopartidos.cpp
+	<iostream>
+	"claseArchivoPartido.h"
+	"cargarCadena.h"
+
+1760625260 c:\users\thiago\desktop\programaciÛn\recursando prog2\proyectotpi\archivopartidos.h
+
+1762801431 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\archivoclubes.cpp
+	<iostream>
+	"claseArchivoClub.h"
+	"cargarCadena.h"
+
+1761598531 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivoclub.h
+	"claseClub.h"
+
+1761161337 c:\users\thiago\desktop\programaciÛn\proyectotpi\claseclub.h
+	"claseFecha.h"
+
+1760575585 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasefecha.h
+
+1760575320 c:\users\thiago\desktop\programaciÛn\proyectotpi\cargarcadena.h
+
+1761831309 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\archivojugadores.cpp
+	<iostream>
+	"claseArchivoJugador.h"
+	"cargarCadena.h"
+
+1761405425 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivojugador.h
+	"claseJugador.h"
+
+1760617109 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasejugador.h
+	"claseFecha.h"
+
+1760575320 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\cargarcadena.cpp
+	<iostream>
+
+1762800905 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivoclub.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoClub.h"
+
+1761405425 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivojugador.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoJugador.h"
+
+1762886831 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivopartido.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoPartido.h"
+
+1762188932 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasearchivopartido.h
+	"clasePartido.h"
+
+1760623899 c:\users\thiago\desktop\programaciÛn\proyectotpi\clasepartido.h
+	"claseFecha.h"
+
+1762904176 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\claseclub.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseClub.h"
+	"claseFecha.h"
+
+1760575585 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasefecha.cpp
+	<iostream>
+	"claseFecha.h"
+
+1760815706 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasejugador.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseJugador.h"
+	"claseFecha.h"
+	"claseArchivoClub.h"
+
+1760814848 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\clasepartido.cpp
+	<iostream>
+	<cstring>
+	"clasePartido.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseArchivoClub.h"
+
+1762904176 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"archivoClubes.h"
+	"archivoJugadores.h"
+	"archivoPartidos.h"
+	"claseArchivoClub.h"
+	"claseArchivoJugador.h"
+	"claseArchivoPartido.h"
+	"informes.h"
+
+1761332969 c:\users\thiago\desktop\programaciÛn\proyectotpi\funciones.h
+
+1762801363 c:\users\thiago\desktop\programaciÛn\proyectotpi\archivoclubes.h
+
+1761828835 c:\users\thiago\desktop\programaciÛn\proyectotpi\archivojugadores.h
+
+1761405139 c:\users\thiago\desktop\programaciÛn\proyectotpi\archivopartidos.h
+
+1762946314 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	"rlutil.h"
+
+1762886754 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\archivopartidos.cpp
+	<iostream>
+	"claseArchivoPartido.h"
+	"cargarCadena.h"
+	<cstring>
+
+1762875252 source:c:\users\thiago\desktop\programaciÛn\proyectotpi\informes.cpp
+	<iostream>
+	"informes.h"
+	"claseArchivoPartido.h"
+	"claseArchivoJugador.h"
+
+1762188414 c:\users\thiago\desktop\programaciÛn\proyectotpi\informes.h
+
+1762557549 c:\users\thiago\desktop\programaciÛn\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivoclubes.cpp
+	<iostream>
+	"claseArchivoClub.h"
+	"cargarCadena.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivoclub.h
+	"claseClub.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\claseclub.h
+	"claseFecha.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasefecha.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\cargarcadena.h
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivojugadores.cpp
+	<iostream>
+	"claseArchivoJugador.h"
+	"cargarCadena.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivojugador.h
+	"claseJugador.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasejugador.h
+	"claseFecha.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivopartidos.cpp
+	<iostream>
+	"claseArchivoPartido.h"
+	"cargarCadena.h"
+	<cstring>
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivopartido.h
+	"clasePartido.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasepartido.h
+	"claseFecha.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\cargarcadena.cpp
+	<iostream>
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivoclub.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoClub.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivojugador.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoJugador.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasearchivopartido.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoPartido.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\claseclub.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseClub.h"
+	"claseFecha.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasefecha.cpp
+	<iostream>
+	"claseFecha.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasejugador.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseJugador.h"
+	"claseFecha.h"
+	"claseArchivoClub.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\clasepartido.cpp
+	<iostream>
+	<cstring>
+	"clasePartido.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseArchivoClub.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"archivoClubes.h"
+	"archivoJugadores.h"
+	"archivoPartidos.h"
+	"claseArchivoClub.h"
+	"claseArchivoJugador.h"
+	"claseArchivoPartido.h"
+	"informes.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\funciones.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivoclubes.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivojugadores.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\archivopartidos.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\informes.h
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\informes.cpp
+	<iostream>
+	"informes.h"
+	"claseArchivoPartido.h"
+	"claseArchivoJugador.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	"rlutil.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\1. examen integrador\proyectotpi\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1773244281 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivoclubes.cpp
+	<iostream>
+	"claseArchivoClub.h"
+	"cargarCadena.h"
+
+1773245173 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivoclub.h
+	"claseClub.h"
+
+1773245213 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\claseclub.h
+	"claseFecha.h"
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasefecha.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\cargarcadena.h
+
+1773244382 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivojugadores.cpp
+	<iostream>
+	"claseArchivoJugador.h"
+	"cargarCadena.h"
+
+1773245181 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivojugador.h
+	"claseJugador.h"
+
+1773245227 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasejugador.h
+	"claseFecha.h"
+
+1773244478 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivopartidos.cpp
+	<iostream>
+	"claseArchivoPartido.h"
+	"cargarCadena.h"
+	<cstring>
+
+1773245193 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivopartido.h
+	"clasePartido.h"
+
+1773245242 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasepartido.h
+	"claseFecha.h"
+
+1772657806 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\cargarcadena.cpp
+	<iostream>
+
+1773244569 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivoclub.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoClub.h"
+
+1773244638 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivojugador.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoJugador.h"
+
+1773244713 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasearchivopartido.cpp
+	<iostream>
+	<cstring>
+	"claseArchivoPartido.h"
+
+1773244769 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\claseclub.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseClub.h"
+	"claseFecha.h"
+
+1773244800 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasefecha.cpp
+	<iostream>
+	"claseFecha.h"
+
+1773245129 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasejugador.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"claseJugador.h"
+	"claseFecha.h"
+	"claseArchivoClub.h"
+
+1773244953 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\clasepartido.cpp
+	<iostream>
+	<cstring>
+	"clasePartido.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseArchivoClub.h"
+
+1773245100 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\informes.cpp
+	<iostream>
+	"informes.h"
+	"claseArchivoPartido.h"
+	"claseArchivoJugador.h"
+
+1773245283 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\informes.h
+
+1773245481 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\main.cpp
+	<iostream>
+	"menus.h"
+	<stdlib.h>
+	"rlutil.h"
+
+1773245251 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\menus.h
+
+1772657806 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1773246679 source:c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\menus.cpp
+	<iostream>
+	"menus.h"
+	"archivoClubes.h"
+	"archivoJugadores.h"
+	"archivoPartidos.h"
+	"claseArchivoClub.h"
+	"claseArchivoJugador.h"
+	"claseArchivoPartido.h"
+	"informes.h"
+
+1773245138 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivoclubes.h
+
+1773245152 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivojugadores.h
+
+1773245159 c:\users\leonardo tello\desktop\1. utn frgp (2024-2026)\2. programaci”n ii\5. tp integrador\5. nuestro proyecto 2025\8. proyectotpi\proyectotpi\archivopartidos.h
+

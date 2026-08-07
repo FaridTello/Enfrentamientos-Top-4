@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyectoTPI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyectoTPI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyectoTPI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="archivoClubes.cpp" />
+		<Unit filename="archivoClubes.h" />
+		<Unit filename="archivoJugadores.cpp" />
+		<Unit filename="archivoJugadores.h" />
+		<Unit filename="archivoPartidos.cpp" />
+		<Unit filename="archivoPartidos.h" />
+		<Unit filename="cargarCadena.cpp" />
+		<Unit filename="cargarCadena.h" />
+		<Unit filename="claseArchivoClub.cpp" />
+		<Unit filename="claseArchivoClub.h" />
+		<Unit filename="claseArchivoJugador.cpp" />
+		<Unit filename="claseArchivoJugador.h" />
+		<Unit filename="claseArchivoPartido.cpp" />
+		<Unit filename="claseArchivoPartido.h" />
+		<Unit filename="claseClub.cpp" />
+		<Unit filename="claseClub.h" />
+		<Unit filename="claseFecha.cpp" />
+		<Unit filename="claseFecha.h" />
+		<Unit filename="claseJugador.cpp" />
+		<Unit filename="claseJugador.h" />
+		<Unit filename="clasePartido.cpp" />
+		<Unit filename="clasePartido.h" />
+		<Unit filename="informes.cpp" />
+		<Unit filename="informes.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menus.cpp" />
+		<Unit filename="menus.h" />
+		<Unit filename="rlutil.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
