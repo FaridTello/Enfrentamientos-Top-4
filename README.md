@@ -8,19 +8,19 @@ El proyecto utiliza **Programación Orientada a Objetos (POO)** para modelar las
 
 ### Inicio del desarrollo
 
-![Inicio del desarrollo](Inicio%20del%20desarrollo.JPG)
+![Inicio del desarrollo](Inicio%20del%20desarrollo.jpg)
 
 ### Listado de clubes
 
-![Listado de clubes](ListadoClubes.JPG)
+![Listado de clubes](ListadoClubes.jpg)
 
 ### Listado de jugadores
 
-![Listado de jugadores](ListadoJugadores.JPG)
+![Listado de jugadores](ListadoJugadores.jpg)
 
 ### Listado de partidos
 
-![Listado de partidos](ListadoPartidos.JPG)
+![Listado de partidos](ListadoPartidos.jpg)
 
 ---
 
@@ -49,19 +49,19 @@ The project uses **Object-Oriented Programming (OOP)** to model the main entitie
 
 ### Project Development Start
 
-![Project Development Start](Inicio%20del%20desarrollo.JPG)
+![Project Development Start](Inicio%20del%20desarrollo.jpg)
 
 ### Club List
 
-![Club List](ListadoClubes.JPG)
+![Club List](ListadoClubes.jpg)
 
 ### Player List
 
-![Player List](ListadoJugadores.JPG)
+![Player List](ListadoJugadores.jpg)
 
 ### Match List
 
-![Match List](ListadoPartidos.JPG)
+![Match List](ListadoPartidos.jpg)
 
 ---
 
