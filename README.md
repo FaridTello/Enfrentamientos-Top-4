@@ -9,9 +9,11 @@ Sistema de consola para gestionar enfrentamientos de fútbol entre clubes. Permi
 ## Tecnologías
 
 - C++
+- rlutil (estilizado de la consola)
 - Programación estructurada
 - Programación Orientada a Objetos (POO)
 - Aplicación de consola
+- Code::Blocks (IDE)
 
 ## Arquitectura
 
@@ -80,9 +82,11 @@ Console-based system to manage football matches between clubs. Allows administra
 ## Technologies
 
 - C++
+- rlutil (console styling)
 - Structured programming
 - Object-Oriented Programming (OOP)
 - Console application
+- Code::Blocks (IDE)
 
 ## Architecture
 
