@@ -1,17 +1,17 @@
-# Enfrentamientos Top 4 - Sistema de Gestión de Enfrentamientos de Tenis
+# Enfrentamientos Top 4 - Sistema de Gestión de Enfrentamientos de Fútbol
 
 Trabajo Práctico Integrador de la materia Programación II - Tecnicatura Universitaria en Programación (TUP), UTN FRGP. 2do cuatrimestre 2025.
 
 ## Objetivo
 
-Sistema de escritorio para gestionar enfrentamientos de tenis entre clubes. Permite administrar clubes, jugadores y partidos, y organizar los enfrentamientos entre los distintos equipos.
+Sistema de consola para gestionar enfrentamientos de fútbol entre clubes. Permite administrar clubes, jugadores y partidos, y organizar los enfrentamientos entre los distintos equipos.
 
 ## Tecnologías
 
 - C++
 - Programación estructurada
 - Programación Orientada a Objetos (POO)
-- Interfaz gráfica de escritorio
+- Aplicación de consola
 
 ## Arquitectura
 
@@ -69,20 +69,20 @@ El informe completo del proyecto se encuentra disponible en el repositorio: [`In
 
 ---
 
-# Enfrentamientos Top 4 - Tennis Match Management System
+# Enfrentamientos Top 4 - Football Match Management System
 
 Final integrative project for Programación II - University Technician in Programming (TUP), UTN FRGP. Second semester 2025.
 
 ## Objective
 
-Desktop system to manage tennis matches between clubs. Allows administration of clubs, players, and matches, and organizes matchups between teams.
+Console-based system to manage football matches between clubs. Allows administration of clubs, players, and matches, and organizes matchups between teams.
 
 ## Technologies
 
 - C++
 - Structured programming
 - Object-Oriented Programming (OOP)
-- Desktop graphical interface
+- Console application
 
 ## Architecture
 
